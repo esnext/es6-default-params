@@ -1,0 +1,36 @@
+{
+  "name": "es6-default-params",
+  "version": "0.0.0",
+  "description": "Function default parameters compiled to ES5.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:square/es6-default-params.git"
+  },
+  "dependencies": {
+    "esprima": "git://github.com/ariya/esprima.git#harmony",
+    "recast": "^0.5.13",
+    "ast-types": "^0.3.23",
+    "through": "~2.3.4",
+    "es6-arrow-function": "^0.3.0"
+  },
+  "devDependencies": {
+    "example-runner": "0.1.0"
+  },
+  "scripts": {
+    "test": "node test/runner.js"
+  },
+  "keywords": [
+    "es6",
+    "default",
+    "params",
+    "parameters",
+    "args",
+    "arguments"
+  ],
+  "author": "Square, Inc.",
+  "license": "Apache 2"
+}
