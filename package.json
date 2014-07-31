@@ -11,7 +11,7 @@
     "url": "git@github.com:square/es6-default-params.git"
   },
   "dependencies": {
-    "esprima": "git://github.com/ariya/esprima.git#harmony",
+    "esprima": "git://github.com/esnext/esprima#harmony-esnext",
     "recast": "^0.5.13",
     "ast-types": "^0.3.23",
     "through": "~2.3.4",
