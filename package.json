@@ -11,7 +11,7 @@
     "url": "git@github.com:square/es6-default-params.git"
   },
   "dependencies": {
-    "ast-types": "^0.3.23",
+    "ast-types": "^0.4.9",
     "es6-arrow-function": "^0.5.1",
     "esprima-fb": "^6001.1001.0-dev-harmony-fb",
     "recast": "^0.5.13",
