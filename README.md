@@ -53,7 +53,7 @@ $ browserify -t es6-default-params $file
 
 ## Contributing
 
-[![Build Status](https://travis-ci.org/square/es6-default-params.png?branch=master)](https://travis-ci.org/square/es6-default-params)
+[![Build Status](https://travis-ci.org/esnext/es6-default-params.png?branch=master)](https://travis-ci.org/esnext/es6-default-params)
 
 ### Setup
 
@@ -90,8 +90,8 @@ covers our bases and makes sure you're eligible to contribute.
 [cla]: https://spreadsheets.google.com/spreadsheet/viewform?formkey=dDViT2xzUHAwRkI3X3k5Z0lQM091OGc6MQ&ndplr=1
 
 When you have a change you'd like to see in the master repository, [send a pull
-request](https://github.com/square/es6-default-params/pulls). Before we merge
+request](https://github.com/esnext/es6-default-params/pulls). Before we merge
 your request, we'll make sure you're in the list of people who have signed a
 CLA.
 
-[esnext]: https://github.com/square/esnext
+[esnext]: https://github.com/esnext/esnext
