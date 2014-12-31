@@ -1,6 +1,6 @@
 {
   "name": "es6-default-params",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Function default parameters compiled to ES5.",
   "main": "lib/index.js",
   "directories": {
