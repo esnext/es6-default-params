@@ -11,8 +11,8 @@
     "url": "git@github.com:square/es6-default-params.git"
   },
   "dependencies": {
-    "es6-arrow-function": "^0.6.0",
-    "recast": "^0.8.0",
+    "es6-arrow-function": "^0.6.5",
+    "recast": "^0.9.11",
     "through": "~2.3.6"
   },
   "devDependencies": {
